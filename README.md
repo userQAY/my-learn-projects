@@ -1,4 +1,1 @@
-Here are my learn projects and files.
-python
-vba
-etc.
+Here are my learn projects and files. Python, vba, etc.
